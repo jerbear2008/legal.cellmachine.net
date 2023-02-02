@@ -1,2 +1,2 @@
 # legal.cellmachine.net
-📜The Cell Machine License
+📜 Cell Machine's Legal Section
